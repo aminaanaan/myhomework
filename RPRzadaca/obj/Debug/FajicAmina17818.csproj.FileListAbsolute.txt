@@ -1,0 +1,8 @@
+D:\RPRzadaca\RPRzadaca\bin\Debug\RPRzadaca.exe
+D:\RPRzadaca\RPRzadaca\bin\Debug\RPRzadaca.pdb
+D:\RPRzadaca\RPRzadaca\bin\Debug\Ordinacije.dll
+D:\RPRzadaca\RPRzadaca\bin\Debug\Ordinacije.pdb
+D:\RPRzadaca\RPRzadaca\obj\Debug\FajicAmina17818.csprojResolveAssemblyReference.cache
+D:\RPRzadaca\RPRzadaca\obj\Debug\FajicAmina17818.csproj.CoreCompileInputs.cache
+D:\RPRzadaca\RPRzadaca\obj\Debug\RPRzadaca.exe
+D:\RPRzadaca\RPRzadaca\obj\Debug\RPRzadaca.pdb

@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\RPRzadaca\RPRzadaca\obj\Debug\RPRzadaca.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RPRzadaca\RPRzadaca\bin\Debug\RPRzadaca.exe
+C:\Users\user\Desktop\RPRzadaca\RPRzadaca\bin\Debug\RPRzadaca.pdb
+C:\Users\user\Desktop\RPRzadaca\RPRzadaca\obj\Debug\RPRzadaca.exe
+C:\Users\user\Desktop\RPRzadaca\RPRzadaca\obj\Debug\RPRzadaca.pdb
+C:\Users\user\Desktop\RPRzadaca\RPRzadaca\obj\Debug\RPRzadaca.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\RPRzadaca\RPRzadaca\bin\Debug\Ordinacije.dll
+C:\Users\user\Desktop\RPRzadaca\RPRzadaca\bin\Debug\Ordinacije.pdb
