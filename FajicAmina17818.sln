@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FajicAmina17818", "RPRzadaca\FajicAmina17818.csproj", "{02B38D54-20F1-4093-A118-C54124AF2EFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordinacije", "Ordinacije\Ordinacije.csproj", "{E7BA97F1-821A-4D8B-B0EE-5F67FF66921D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B38D54-20F1-4093-A118-C54124AF2EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B38D54-20F1-4093-A118-C54124AF2EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B38D54-20F1-4093-A118-C54124AF2EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B38D54-20F1-4093-A118-C54124AF2EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7BA97F1-821A-4D8B-B0EE-5F67FF66921D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BA97F1-821A-4D8B-B0EE-5F67FF66921D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BA97F1-821A-4D8B-B0EE-5F67FF66921D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BA97F1-821A-4D8B-B0EE-5F67FF66921D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE8BF920-3A3A-418A-B08A-56B160EBA618}
+	EndGlobalSection
+EndGlobal
