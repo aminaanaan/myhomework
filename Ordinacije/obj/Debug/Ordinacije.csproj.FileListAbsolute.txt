@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\RPRzadaca\Ordinacije\bin\Debug\Ordinacije.dll
+C:\Users\user\Desktop\RPRzadaca\Ordinacije\bin\Debug\Ordinacije.pdb
+C:\Users\user\Desktop\RPRzadaca\Ordinacije\obj\Debug\Ordinacije.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\RPRzadaca\Ordinacije\obj\Debug\Ordinacije.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RPRzadaca\Ordinacije\obj\Debug\Ordinacije.dll
+C:\Users\user\Desktop\RPRzadaca\Ordinacije\obj\Debug\Ordinacije.pdb
